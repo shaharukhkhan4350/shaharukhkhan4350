@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm currently working on development of Data Quality measurement tools for CDO team of HSBC.  
+- I'm currently working with HiLabs Inc.  
 - I am looking to collaborate on development of projects involving NLP, statistical modelling and computer vision.
 <!--
 **shaharukhkhan4350/shaharukhkhan4350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
