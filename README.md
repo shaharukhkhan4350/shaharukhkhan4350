@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I am currently working with Arcana Analytics.
+- I am currently working with Krutrim.
 <!--- I'm currently working with HiLabs Inc.  -->
 - I am looking to collaborate on development of projects involving NLP, statistical modelling and computer vision.
 <!--
