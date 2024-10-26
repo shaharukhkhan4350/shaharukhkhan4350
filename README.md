@@ -1,18 +1,38 @@
-### Hi there 👋
-- I am currently working with Krutrim.
-<!--- I'm currently working with HiLabs Inc.  -->
-<!-- - I am looking to collaborate on development of projects involving NLP, statistical modelling and computer vision. -->
-<!--
-**shaharukhkhan4350/shaharukhkhan4350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Shaharukh Khan
 
-Here are some ideas to get you started:
+Data Scientist at [Krutrim](https://krutrim.ai) | IIT Kanpur Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔭 About Me
+I'm a passionate Data Scientist specializing in AI/ML with a focus on bridging language and vision technologies for Indian languages. Currently working on advancing the frontier of AI accessibility for Indic languages through various deep learning approaches.
+
+## 🚀 Current Work
+- Developing and optimizing Visual Language Models
+- Building robust OCR systems for Indic scripts
+- Contributing to Foundation Models specialized for Indian languages
+- Exploring multi-modal approaches in AI for better language understanding
+
+## 🎓 Education
+- Indian Institute of Technology (IIT) Kanpur
+
+## 💻 Technical Expertise
+- **Deep Learning Frameworks:** PyTorch, TensorFlow
+- **Computer Vision:** CNN, Object Detection, Image Recognition
+- **NLP:** Transformer Models, BERT variants, Text Processing
+- **Languages & Tools:** Python, SQL, Git, Linux
+- **MLOps:** Docker, CI/CD, Model Deployment
+
+## 🌱 Areas of Interest
+- Multi-modal AI Systems
+- Low-resource Language Processing
+- Vision-Language Models
+- OCR Technology
+- Indian Language Computing
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/shaharukh-khan-a704188a/)
+- [Twitter](https://twitter.com/shahrukhkhan615)
+- [Email](mailto:shaharukhkhan4350@gmail.com)
+
+---
+*"Making AI accessible for every Indian language, one model at a time."*
 -->
