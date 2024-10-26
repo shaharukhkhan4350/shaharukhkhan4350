@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaharukh Khan
 
-Data Scientist at [Krutrim](https://krutrim.ai) | IIT Kanpur Graduate
+Data Scientist at [Krutrim](https://www.olakrutrim.com/) | IIT Kanpur Graduate
 
 ## 🔭 About Me
 I'm a passionate Data Scientist specializing in AI/ML with a focus on bridging language and vision technologies for Indian languages. Currently working on advancing the frontier of AI accessibility for Indic languages through various deep learning approaches.
@@ -35,4 +35,4 @@ I'm a passionate Data Scientist specializing in AI/ML with a focus on bridging l
 
 ---
 *"Making AI accessible for every Indian language, one model at a time."*
--->
+---
